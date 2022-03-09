@@ -1,6 +1,6 @@
 # jatreus
 
-![jatreus](imgur.com image replace me!)
+![jatreus](https://user-images.githubusercontent.com/1004242/157540405-5d0d379b-c2ba-4bff-9292-e972b256a39c.png)
 
 *A short description of the keyboard/project*
 
